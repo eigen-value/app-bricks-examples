@@ -1,3 +1,5 @@
+## This file is modified to test the workflow
+
 # Linux Blink with UI (JavaScript)
 
 The **Linux Blink** example shows a simple Linux application that changes the LED state on the board. It showcases basic event handling and UI updates through a web-based interface.
