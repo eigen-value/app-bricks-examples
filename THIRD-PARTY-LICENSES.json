@@ -17,12 +17,12 @@
   {
     "License": "MPL-2.0",
     "Name": "arduino_app_bricks",
-    "Version": "0.7.1"
+    "Version": "0.8.0"
   },
   {
     "License": "MIT",
     "Name": "attrs",
-    "Version": "25.4.0"
+    "Version": "26.1.0"
   },
   {
     "License": "BSD-2-Clause",
@@ -32,12 +32,12 @@
   {
     "License": "Mozilla Public License 2.0 (MPL 2.0)",
     "Name": "certifi",
-    "Version": "2026.1.4"
+    "Version": "2026.2.25"
   },
   {
     "License": "MIT",
     "Name": "charset-normalizer",
-    "Version": "3.4.4"
+    "Version": "3.4.6"
   },
   {
     "License": "BSD-3-Clause",
@@ -77,7 +77,7 @@
   {
     "License": "Apache Software License",
     "Name": "requests",
-    "Version": "2.32.5"
+    "Version": "2.33.0"
   },
   {
     "License": "Apache Software License; CC0 1.0 Universal (CC0 1.0) Public Domain Dedication; DFSG approved; GNU General Public License v3 or later (GPLv3+); Other/Proprietary License",
